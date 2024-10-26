@@ -1,1 +1,6 @@
 pytest
+numpy
+panda
+matplotlib
+scipy
+scikit-learn
